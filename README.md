@@ -79,13 +79,13 @@ Vision-Based-LED-Control/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/vision-led-control.git
+git clone [https://github.com/yourusername/vision-led-control.git](https://github.com/Rudro4038/vision-based-LED-control.git)
 ```
 
 Enter the project
 
 ```bash
-cd vision-led-control
+cd vision-based-LED-control
 ```
 
 Create virtual environment
